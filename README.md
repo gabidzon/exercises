@@ -19,3 +19,4 @@
 - Use icons: 'glyphicon-star' and 'glyphicon-star-empty':
 
 ![stars](images/stars.png)
+aaa
